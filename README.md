@@ -1,5 +1,5 @@
 # Robofriends
-Simple page with dynamic search made with React and Tachyons CSS
+Simple page with dynamic search and scrollable content made with React and Tachyons CSS
 
 ## Live Project 
 
